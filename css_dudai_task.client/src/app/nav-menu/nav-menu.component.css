@@ -1,0 +1,15 @@
+html {
+  font-size: 16px;
+}
+
+
+
+.navbar-nav {
+  list-style-type: none;
+  padding: 0;
+}
+
+  .navbar-nav li {
+    display: inline-block;
+    margin-right: 10px; /* Adjust as needed */
+  }

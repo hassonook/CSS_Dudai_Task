@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSS_Dudai_Task.Server", "CSS_Dudai_Task.Server\CSS_Dudai_Task.Server.csproj", "{D284D08A-75DC-4B78-A830-C19856A2BDD6}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "css_dudai_task.client", "css_dudai_task.client\css_dudai_task.client.esproj", "{A21DAE16-D80F-47FE-8425-F2CC8CCD8D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D284D08A-75DC-4B78-A830-C19856A2BDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D284D08A-75DC-4B78-A830-C19856A2BDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D284D08A-75DC-4B78-A830-C19856A2BDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D284D08A-75DC-4B78-A830-C19856A2BDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21DAE16-D80F-47FE-8425-F2CC8CCD8D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21DAE16-D80F-47FE-8425-F2CC8CCD8D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21DAE16-D80F-47FE-8425-F2CC8CCD8D75}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A21DAE16-D80F-47FE-8425-F2CC8CCD8D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21DAE16-D80F-47FE-8425-F2CC8CCD8D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21DAE16-D80F-47FE-8425-F2CC8CCD8D75}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7934AFED-2D25-4699-8267-BC2689B3A1DD}
+	EndGlobalSection
+EndGlobal
